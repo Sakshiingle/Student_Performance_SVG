@@ -147,7 +147,7 @@ HTML_TEMPLATE = """
             
             <div class="form-group">
                 <label for="gender">Gender (0/1)</label>
-                <input type="number" id="gender" name="gender" required placeholder="e.g. 0 or 1" step="any">
+                <input type="number" id="gender" name="gender" required placeholder="e.g. 1 for male , 0 for female" step="any">
             </div>
             
             <div class="form-group">
